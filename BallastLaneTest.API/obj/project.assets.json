@@ -3375,11 +3375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\G\\BallastLaneTest\\BallastLaneTest.API\\BallastLaneTest.API.csproj",
+      "projectUniqueName": "C:\\L\\BallastLaneTest.API\\BallastLaneTest.API.csproj",
       "projectName": "BallastLaneTest.API",
-      "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.API\\BallastLaneTest.API.csproj",
+      "projectPath": "C:\\L\\BallastLaneTest.API\\BallastLaneTest.API.csproj",
       "packagesPath": "C:\\Users\\grecagno.adm\\.nuget\\packages\\",
-      "outputPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.API\\obj\\",
+      "outputPath": "C:\\L\\BallastLaneTest.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3405,11 +3405,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\G\\BallastLaneTest\\BallastLaneTest.BusinessLogic\\BallastLaneTest.BusinessLogic.csproj": {
-              "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.BusinessLogic\\BallastLaneTest.BusinessLogic.csproj"
+            "C:\\L\\BallastLaneTest.BusinessLogic\\BallastLaneTest.BusinessLogic.csproj": {
+              "projectPath": "C:\\L\\BallastLaneTest.BusinessLogic\\BallastLaneTest.BusinessLogic.csproj"
             },
-            "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
-              "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj"
+            "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
+              "projectPath": "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj"
             }
           }
         }

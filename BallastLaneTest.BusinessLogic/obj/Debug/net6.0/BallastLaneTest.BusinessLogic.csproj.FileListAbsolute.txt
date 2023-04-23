@@ -1,0 +1,17 @@
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.BusinessLogic.deps.json
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.BusinessLogic.dll
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.BusinessLogic.pdb
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.Data.dll
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.Models.dll
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.Data.pdb
+C:\L\BallastLaneTest.BusinessLogic\bin\Debug\net6.0\BallastLaneTest.Models.pdb
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.csproj.AssemblyReference.cache
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.AssemblyInfoInputs.cache
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.AssemblyInfo.cs
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.csproj.CopyComplete
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.dll
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\refint\BallastLaneTest.BusinessLogic.dll
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\BallastLaneTest.BusinessLogic.pdb
+C:\L\BallastLaneTest.BusinessLogic\obj\Debug\net6.0\ref\BallastLaneTest.BusinessLogic.dll

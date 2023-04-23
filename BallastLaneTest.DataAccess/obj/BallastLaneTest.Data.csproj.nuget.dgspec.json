@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\G\\BallastLaneTest\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj": {}
+    "C:\\L\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj": {}
   },
   "projects": {
-    "C:\\G\\BallastLaneTest\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj": {
+    "C:\\L\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\G\\BallastLaneTest\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj",
+        "projectUniqueName": "C:\\L\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj",
         "projectName": "BallastLaneTest.Data",
-        "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj",
+        "projectPath": "C:\\L\\BallastLaneTest.DataAccess\\BallastLaneTest.Data.csproj",
         "packagesPath": "C:\\Users\\grecagno.adm\\.nuget\\packages\\",
-        "outputPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.DataAccess\\obj\\",
+        "outputPath": "C:\\L\\BallastLaneTest.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -37,8 +37,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
-                "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj"
+              "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
+                "projectPath": "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
+    "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj",
+        "projectUniqueName": "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj",
         "projectName": "BallastLaneTest.Models",
-        "projectPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj",
+        "projectPath": "C:\\L\\BallastLaneTest.Models\\BallastLaneTest.Models.csproj",
         "packagesPath": "C:\\Users\\grecagno.adm\\.nuget\\packages\\",
-        "outputPath": "C:\\G\\BallastLaneTest\\BallastLaneTest.Models\\obj\\",
+        "outputPath": "C:\\L\\BallastLaneTest.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
