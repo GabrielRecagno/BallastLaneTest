@@ -1,0 +1,12 @@
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\bin\Debug\net6.0\BallastLaneTest.Models.deps.json
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\bin\Debug\net6.0\BallastLaneTest.Models.dll
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\bin\Debug\net6.0\BallastLaneTest.Models.pdb
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.csproj.AssemblyReference.cache
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.AssemblyInfoInputs.cache
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.AssemblyInfo.cs
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.dll
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\refint\BallastLaneTest.Models.dll
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\BallastLaneTest.Models.pdb
+C:\Users\grecagno.adm\source\repos\BallastLaneTest\BallastLaneTest.Models\obj\Debug\net6.0\ref\BallastLaneTest.Models.dll
